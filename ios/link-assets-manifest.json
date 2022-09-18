@@ -1,0 +1,145 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/Antonio-Bold.ttf",
+      "sha1": "cd5f99a60c173e8d55b0605f664e0d1b3e70d1f0"
+    },
+    {
+      "path": "assets/fonts/Antonio-ExtraLight.ttf",
+      "sha1": "2372ce0833c9a2c926afcc98d983ef64ae5c1664"
+    },
+    {
+      "path": "assets/fonts/Antonio-Light.ttf",
+      "sha1": "66515b77f0bd109cc51d611b6b6ac36635cecc33"
+    },
+    {
+      "path": "assets/fonts/Antonio-Medium.ttf",
+      "sha1": "71192b5d7b5553bf5b6f499011c9a0d339f2895c"
+    },
+    {
+      "path": "assets/fonts/Antonio-Regular.ttf",
+      "sha1": "e27bf50f9670d30695e470c89b14543a2d87adb3"
+    },
+    {
+      "path": "assets/fonts/Antonio-SemiBold.ttf",
+      "sha1": "456ad211ef0d94ec5a4b22ce31d1001f7b1d566e"
+    },
+    {
+      "path": "assets/fonts/Antonio-Thin.ttf",
+      "sha1": "18c215281ef2efc2d1817163c850c4780a6a5552"
+    },
+    {
+      "path": "assets/fonts/Nunito-Black.ttf",
+      "sha1": "6b41ef726f3dba8f3d8889c0f4c4b17832811642"
+    },
+    {
+      "path": "assets/fonts/Nunito-BlackItalic.ttf",
+      "sha1": "4912f710fef88cc3770612f053b7a452bc41668d"
+    },
+    {
+      "path": "assets/fonts/Nunito-Bold.ttf",
+      "sha1": "dea5eec0aca2aef62e3bfc625cf95f9d45b59687"
+    },
+    {
+      "path": "assets/fonts/Nunito-BoldItalic.ttf",
+      "sha1": "6d0327da2af845fdfa6a3cfeb5c123784d087753"
+    },
+    {
+      "path": "assets/fonts/Nunito-ExtraBold.ttf",
+      "sha1": "60821838f6675153f0699c6a86ad8467a937e0f5"
+    },
+    {
+      "path": "assets/fonts/Nunito-ExtraBoldItalic.ttf",
+      "sha1": "165391d62a4c86447db00b1c28278083aa2f1747"
+    },
+    {
+      "path": "assets/fonts/Nunito-ExtraLight.ttf",
+      "sha1": "5147803c00983715429e5f492938c8a3e6552839"
+    },
+    {
+      "path": "assets/fonts/Nunito-ExtraLightItalic.ttf",
+      "sha1": "25c78ceeff212006f7a7b449df2baabfeec1742b"
+    },
+    {
+      "path": "assets/fonts/Nunito-Italic.ttf",
+      "sha1": "c82dbd0b140a67ab9f201ef062d8377318098399"
+    },
+    {
+      "path": "assets/fonts/Nunito-Light.ttf",
+      "sha1": "7879b46e377513f6eb1c52f99000c8e96f36cf6e"
+    },
+    {
+      "path": "assets/fonts/Nunito-LightItalic.ttf",
+      "sha1": "b0e913e197ffad44911988e48b2452ee1ea64051"
+    },
+    {
+      "path": "assets/fonts/Nunito-Medium.ttf",
+      "sha1": "0e3a9789daa6603bf6870c124727c3643b56574a"
+    },
+    {
+      "path": "assets/fonts/Nunito-MediumItalic.ttf",
+      "sha1": "64e9688f18b3e12772d9c4707525f51057be7d3f"
+    },
+    {
+      "path": "assets/fonts/Nunito-Regular.ttf",
+      "sha1": "4b7236ba666cb77f00d8cb2a17696cc0dc2b2cc9"
+    },
+    {
+      "path": "assets/fonts/Nunito-SemiBold.ttf",
+      "sha1": "876165d70aa2e00f66737c7dd87039e2619bf2c2"
+    },
+    {
+      "path": "assets/fonts/Nunito-SemiBoldItalic.ttf",
+      "sha1": "7bd1aee703efa1423dc584f39658e113358561ac"
+    },
+    {
+      "path": "assets/fonts/Roboto-Black.ttf",
+      "sha1": "3f8e401d808f6ce84b542266726514ac8be73171"
+    },
+    {
+      "path": "assets/fonts/Roboto-BlackItalic.ttf",
+      "sha1": "03d6e3747d862385dbe48e8296385b9236101a62"
+    },
+    {
+      "path": "assets/fonts/Roboto-Bold.ttf",
+      "sha1": "62442a18a9fe9457c1afeabf683d263a691b7798"
+    },
+    {
+      "path": "assets/fonts/Roboto-BoldItalic.ttf",
+      "sha1": "2f10ad9e8cab0880182705c4e0fbaeabae706e64"
+    },
+    {
+      "path": "assets/fonts/Roboto-Italic.ttf",
+      "sha1": "65f3f6a7e1bd2fa6f2df35e4b07775d7f1dde4f0"
+    },
+    {
+      "path": "assets/fonts/Roboto-Light.ttf",
+      "sha1": "18788c5d630fa695f9283f6393bfa541b2031508"
+    },
+    {
+      "path": "assets/fonts/Roboto-LightItalic.ttf",
+      "sha1": "6e01f9df9449565697032b002706a94b51862bbe"
+    },
+    {
+      "path": "assets/fonts/Roboto-Medium.ttf",
+      "sha1": "3c6a09fcc6a454924c81af7dff94fc6d399ed79b"
+    },
+    {
+      "path": "assets/fonts/Roboto-MediumItalic.ttf",
+      "sha1": "b3aa2d8f16d5a331fdced82f213a052b204eaca0"
+    },
+    {
+      "path": "assets/fonts/Roboto-Regular.ttf",
+      "sha1": "56c5c0d38bde4c1f1549dda43db37b09c608aad3"
+    },
+    {
+      "path": "assets/fonts/Roboto-Thin.ttf",
+      "sha1": "58c733e22bceeaf9609ce578eca92ac303c6d92f"
+    },
+    {
+      "path": "assets/fonts/Roboto-ThinItalic.ttf",
+      "sha1": "cc79d5a23bd0ec08b1d99f5390bf33cacc3082f4"
+    }
+  ]
+}
